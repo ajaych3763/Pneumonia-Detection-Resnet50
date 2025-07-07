@@ -1,7 +1,8 @@
 # Pneumonia Detection Using CNN-Based Feature Extraction
 
 # Project Overview
-Pneumonia is a serious lung infection and remains a significant health concern, especially in regions with limited access to medical experts. This project leverages the power of deep learning to automate the detection of pneumonia, reducing the dependency on expert radiologists and enabling quicker diagnosis.
+Pneumonia is a serious lung infection and remains a significant health concern, especially in regions with limited access to medical experts. This project leverages the power of deep learning to automate the detection of pneumonia, reducing the dependency on expert radiologists and enabling quicker diagnosis.  
+**Dataset Link** : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia  
 
 # Workflow
 **Image Pre-processing** : Normalization, resizing (224x224), and data augmentation.  
