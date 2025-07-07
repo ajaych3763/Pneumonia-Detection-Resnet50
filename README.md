@@ -1,1 +1,1 @@
-# Pneumonia-Detection-Resnet50-
+# Pneumonia-Detection-Resnet50
